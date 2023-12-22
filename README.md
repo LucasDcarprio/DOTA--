@@ -1,4 +1,4 @@
-# DOTA-
+# DOTA-铭文脚本
 DOTA铭文 polkadot链
 
 使用方法：
